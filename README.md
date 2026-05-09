@@ -69,41 +69,47 @@ python main.py
 ## Example Gameplay
 
 **Player vs Computer**
+```
 Select mode:
 1. Player vs Computer
 2. Player vs Player
-
 Enter choice: 1
 
 Enter your choice — Rock(0), Paper(1), Scissors(2): 0
 Computer chose: 2 (Scissors)
 
 🎉 You win! Rock beats Scissors.
+
 Play again? (yes/no): no
 Thanks for playing!
+```
 
 **Player vs Player**
+```
 Select mode:
 1. Player vs Computer
 2. Player vs Player
-
 Enter choice: 2
 
 Player 1 — Enter your choice — Rock(0), Paper(1), Scissors(2): 1
 Player 2 — Enter your choice — Rock(0), Paper(1), Scissors(2): 0
 
 Player 1 wins! Paper beats Rock.
+
 Play again? (yes/no): no
 Thanks for playing!
+```
 
 ---
 
 ## Project Structure
 
+```
 rps-dual-mode/
 │
-├── main.py      # Main game logic
-└── README.md    # Project documentation
+├── main.py        # Main game logic
+└── README.md      # Project documentation
+```
 
 ---
 
