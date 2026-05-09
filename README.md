@@ -48,7 +48,7 @@ In this implementation, gestures are entered as numbers:
 
 ```bash
 # 1. Clone the repository
-git clone (https://github.com/b-suhas/rps-dual-mode)
+git clone https://github.com/b-suhas/rps-dual-mode
 
 # 2. Navigate into the project folder
 cd rps-dual-mode
@@ -97,9 +97,9 @@ Thanks for playing!
 ---
 
 ## Project Structure
-rock-paper-scissors/
+rps-dual-mode/
 │
-├── main.py        # Entry point — game loop and mode selection
+├── main.py        # Main game logic
 └── README.md      # Project documentation
 
 ---
@@ -128,7 +128,7 @@ rock-paper-scissors/
 
 **Your Name**
 - GitHub: [@b-suhas](https://github.com/b-suhas)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/bsuhas/)
+- LinkedIn: [B SUHAS](https://www.linkedin.com/in/bsuhas/)
 
 ---
 
