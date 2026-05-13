@@ -135,7 +135,7 @@ rps-dual-mode/
 
 ## 👤 Author
 
-**Your Name**
+**B SUHAS**
 - GitHub: [@b-suhas](https://github.com/b-suhas)
 - LinkedIn: [B SUHAS](https://www.linkedin.com/in/bsuhas/)
 
